@@ -43,7 +43,7 @@
                             {{ csrf_field() }}
                             {{ method_field('DELETE') }}
 
-                            <button type="submit" class="btn btn-default">削除</button>
+                            <button type="submit" class="btn btn-default">削除する</button>
                         </form>
                         </td>
                                 </tr>
